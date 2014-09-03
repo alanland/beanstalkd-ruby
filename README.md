@@ -1,6 +1,8 @@
 beanstalkd-ruby
 ===============
 
+beanstalkd ruby 客户端 beaneater 实例代码．
+
 
 # Beanstalk
 
